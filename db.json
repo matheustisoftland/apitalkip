@@ -1,0 +1,37 @@
+{
+
+    "retorno":[
+       {
+        "id": 1,
+        "numero": "Sebastian",
+        "campanha": "Eschweiler",
+        "status": "sebastian@codingthesmartway.com",
+        "resposta": "ssss"
+       }
+
+    ],
+
+    "campanhas": [
+    {
+       "id": 1,
+       "numero": "Sebastian",
+       "texto": "Eschweiler",
+       "banner": "sebastian@codingthesmartway.com",
+       "avatar": "ssss"
+     },
+     {
+        "id": 2,
+        "numero": "Sebastian",
+        "texto": "Eschweiler",
+        "banner": "sebastian@codingthesmartway.com",
+        "avatar": "ssss"
+     },
+     {
+        "id": 3,
+        "numero": "Sebastian",
+        "texto": "Eschweiler",
+        "banner": "sebastian@codingthesmartway.com",
+        "avatar": "ssss"
+     }
+   ]
+ }
