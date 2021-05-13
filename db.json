@@ -20,6 +20,26 @@
         "resposta": "ssss"
 
 }
+         
+    "lisiane":[
+    {
+    "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+
+}
+         "lisianereport":[
+    {
+    "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+
+}
+        
     
     ],
     
@@ -32,19 +52,6 @@
        "banner": "sebastian@codingthesmartway.com",
        "avatar": "ssss"
      },
-     {
-        "id": 2,
-        "numero": "Sebastian",
-        "texto": "Eschweiler",
-        "banner": "sebastian@codingthesmartway.com",
-        "avatar": "ssss"
-     },
-     {
-        "id": 3,
-        "numero": "Sebastian",
-        "texto": "Eschweiler",
-        "banner": "sebastian@codingthesmartway.com",
-        "avatar": "ssss"
-     }
+    
    ]
  }
