@@ -1,5 +1,5 @@
 {
-     "talkipr": [
+     "talkipc": [
      {
         "id": 1,
         "first_name": "Sebastian",
@@ -8,7 +8,7 @@
       }
     ],
      
-     "talkipc": [
+     "talkipr": [
      {
         "id": 1,
         "first_name": "Sebastian",
