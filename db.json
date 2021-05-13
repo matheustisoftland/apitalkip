@@ -7,8 +7,18 @@
         "campanha": "Eschweiler",
         "status": "sebastian@codingthesmartway.com",
         "resposta": "ssss"
-       }
-
+       } 
+     ],   
+    
+    
+"campanhas": [
+    {
+       "id": 1,
+       "numero": "Sebastian",
+       "texto": "Eschweiler",
+       "banner": "sebastian@codingthesmartway.com",
+       "avatar": "ssss"
+     }
     ],
     
     "thiago":[
@@ -19,8 +29,8 @@
         "status": "sebastian@codingthesmartway.com",
         "resposta": "ssss"
 
-}
-      ],
+    }
+  ],
     
     "lisiane":[
     {
@@ -46,15 +56,4 @@
     
     ],
     
-
-    "campanhas": [
-    {
-       "id": 1,
-       "numero": "Sebastian",
-       "texto": "Eschweiler",
-       "banner": "sebastian@codingthesmartway.com",
-       "avatar": "ssss"
-     }
-    
-   ],
  }
