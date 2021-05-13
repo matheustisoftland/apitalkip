@@ -1,35 +1,22 @@
 {
-
-    "retorno":[
-       {
+     "employees": [
+     {
         "id": 1,
-        "numero": "Sebastian",
-        "campanha": "Eschweiler",
-        "status": "sebastian@codingthesmartway.com",
-        "resposta": "234"
-       } 
-     ],   
-    
-    
-"campanhas": [
-    {
-       "id": 122,
-       "numero": "Sebastian",
-       "texto": "Eschweiler",
-       "banner": "sebastian@codingthesmartway.com",
-       "avatar": "ssss"
-     }
-    ],
-    
-    "thiago":[
-    {
-    "id": 111,
-        "numero": "Sebastian",
-        "campanha": "Eschweiler",
-        "status": "sebastian@codingthesmartway.com",
-        "resposta": "ssss"
-
-    }
-  ],
-      
- }
+        "first_name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+      },
+      {
+        "id": 2,
+        "first_name": "Steve",
+        "last_name": "Palmer",
+        "email": "steve@codingthesmartway.com"
+      },
+      {
+        "id": 3,
+        "first_name": "Ann",
+        "last_name": "Smith",
+        "email": "ann@codingthesmartway.com"
+      }
+    ]
+  }
