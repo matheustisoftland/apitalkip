@@ -15,5 +15,42 @@
         "last_name": "Eschweiler",
         "email": "sebastian@codingthesmartway.com"
       }
+    ],
+     
+     "thiagoc": [
+     {
+        "id": 1,
+        "first_name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+      }
+    ],
+     
+      "thiagor": [
+     {
+        "id": 1,
+        "first_name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+      }
+    ],
+     
+    "lisianec": [
+     {
+        "id": 1,
+        "first_name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+      }
+    ],
+     
+      "lisianer": [
+     {
+        "id": 1,
+        "first_name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+      }
     ]
+
   }
