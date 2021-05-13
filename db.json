@@ -31,29 +31,5 @@
 
     }
   ],
-    
-    "lisiane":[
-    {
-    "id": 1,
-        "numero": "teste",
-        "campanha": "teste",
-        "status": "teste",
-        "resposta": "teste"
-
-   }
-  ],
-    
-         "lisianereport":[
-    {
-    "id": 1,
-        "numero": "teste",
-        "campanha": "test",
-        "status": "test",
-        "resposta": "test"
-
-}
-        
-    
-    ],
-    
+      
  }
