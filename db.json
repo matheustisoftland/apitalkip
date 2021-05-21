@@ -57,6 +57,24 @@
         "status": "",
         "resposta": ""
       }
+    ],
+     "andrewstelecomc: [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "andrewstelecomr: [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
 
   }
