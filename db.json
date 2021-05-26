@@ -93,5 +93,23 @@
         "status": "",
         "resposta": ""
       }
+    ],
+       "thalesc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "thalesr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
 }
