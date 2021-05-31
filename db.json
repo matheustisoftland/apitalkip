@@ -111,5 +111,24 @@
         "status": "",
         "resposta": ""
       }
+    ],
+     
+     "meregetech": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "meregetech": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
 }
