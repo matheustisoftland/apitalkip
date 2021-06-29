@@ -188,5 +188,23 @@
         "status": "",
         "resposta": ""
       }
+    ],
+      "intermediumenterprisec": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "intermediumenterpriser": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
 }
