@@ -206,5 +206,23 @@
         "status": "",
         "resposta": ""
       }
+    ],
+      "andersonmarinc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "andersonmarinr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
 }
