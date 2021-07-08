@@ -260,5 +260,25 @@
         "status": "",
         "resposta": ""
       }
+    ],
+     "mireiafariasdiallinkc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "mireiafariasdiallinkr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
+     
+     
 }
